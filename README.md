@@ -65,7 +65,7 @@ This project made for my Final Project on Generasi Gigih 2.0 (Front end track)
 
 ### Installation needed
 
--   React-edux
+-   React-redux
 -   React-router-dom
 -   Eslint
 -   Typescript   
