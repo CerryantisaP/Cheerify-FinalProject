@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { RootState, useAppSelector } from '../../redux/store';
 import { searchTrack } from '../../utils/fetchAPI';
-
+import Button from '@mui/material/Button';
 import { Track as ITrack } from '../../types/spotify';
 
 interface IProps {
@@ -56,13 +56,13 @@ const SearchBar: React.FC<IProps> = ({ onSuccess, onClearSearch }) => {
           </button>
         </div>
       </form>
-      <button
+      <Button
         aria-label="clear-button"
         className="btn btn-clear"
         onClick={clearSearch}
       >
         Clear Unselected Track
-      </button>
+      </Button>
     </div>
   );
 };

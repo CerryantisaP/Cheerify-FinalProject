@@ -1,7 +1,7 @@
 # Welcome to Cheerify! 
 
 Description:
-Cheerify inspired by Spotify, which consume Spotify API to search some tracks and create a playlist in your Spotify account easily.
+Cheerify inspired by Spotify, which using Spotify API to search some tracks and create a playlist in your Spotify account easily.
 
 
 ## Cheerify's look
@@ -10,13 +10,13 @@ Login Menu
 <center><img src="/images/Login.png" alt="Preview Image" /></center>
 
 Dashboard
-<center><img src="/images/dashboard.png" alt="Preview Image" /></center>
+<center><img src="/images/Dashboard.png" alt="Preview Image" /></center>
 
 Search your tracks here
 <center><img src="/images/Search-form.png" alt="Preview Image" /></center>
 
 Create Playlist
-center><img src="/images/Create-Playlist.png" alt="Preview Image" /></center>
+<center><img src="/images/Create-Playlist.png" alt="Preview Image" /></center>
 
 ## Features
 
@@ -66,8 +66,10 @@ This project made for my Final Project on Generasi Gigih 2.0 (Front end track)
 ### Installation needed
 
 -   Redux
+-   React-dom
 -   Eslint
 -   Typescript   
+-   MUI
 
 ### Author
 
@@ -75,13 +77,14 @@ This project made by Cerryantisa Pamela (KM_G2FE1259)
 
 ### Credit
 
-Credit to : - Generasi GIGIH 2.0
-            - My Instructor
-            - My Class Assistant
-            - Spotify
-            - Vscode
-            - Github
-            - My precious friends
+Credit to :
+-       Generasi GIGIH 2.0
+-       My Instructor
+-       My Class Assistant
+-       Spotify
+-       Vscode
+-       Github
+-       My precious friends
 
 ## Feedback
 

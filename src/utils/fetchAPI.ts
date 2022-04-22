@@ -49,7 +49,7 @@ export const createPlaylist = async (
     body: data,
     headers: {
       Authorization: `Bearer ${accessToken}`,
-      'Content-Type': "application/json",
+      'Content-Type': 'application/json',
     },
   };
 
@@ -75,7 +75,7 @@ export const addTracksToPlaylist = async (
     body: data,
     headers: {
       Authorization: `Bearer ${accessToken}`,
-      'Content-Type': "application/json",
+      'Content-Type': 'application/json',
     },
   };
 
