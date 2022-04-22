@@ -65,11 +65,11 @@ This project made for my Final Project on Generasi Gigih 2.0 (Front end track)
 
 ### Installation needed
 
--   Redux
--   React-dom
+-   React-edux
+-   React-router-dom
 -   Eslint
 -   Typescript   
--   MUI
+-   Material-UI
 
 ### Author
 
