@@ -25,7 +25,6 @@ Create Playlist
 - 🎵 Tracks ➡️ include image, title, artist button to select and link redirect to Spotify
 - 🎶 Create Playlist ➡️ add multiple selected tracks into a new Playlist
 - 🚮 Button to clear unselected track so we can see our track clearly
-- 👤 User profile ➡️ avatar and display name
 - 🏃‍♀️ Logout Spotify account
 
 ## Installation
@@ -78,13 +77,13 @@ This project made by Cerryantisa Pamela (KM_G2FE1259)
 ### Credit
 
 Credit to :
--       Generasi GIGIH 2.0
--       My Instructor
--       My Class Assistant
--       Spotify
--       Vscode
--       Github
--       My precious friends
+- Generasi GIGIH 2.0
+- My Instructor
+- My Class Assistant
+- Spotify
+- Vscode
+- Github
+- My precious friends
 
 ## Feedback
 
